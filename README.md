@@ -1,0 +1,1 @@
+## Not a real doctor, its just a hobby project to see what the api suggests when we send and image and some text as query
